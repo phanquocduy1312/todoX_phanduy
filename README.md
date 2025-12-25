@@ -40,13 +40,13 @@ Nếu bạn muốn chạy dự án này trên máy cá nhân:
    ```bash
    git clone [https://github.com/phanquocduy1312/todoX_phanduy.git](https://github.com/phanquocduy1312/todoX_phanduy.git)
    cd todoX_phanduy
-# 2. Cài đặt dependencies & Build (Tự động cài cả Client & Server)
-npm run build
+2. **Cài đặt dependencies & Build (Tự động cài cả Client & Server)**
+- npm run build
 
-# 3. Cấu hình môi trường
+3. **Cấu hình môi trường**
 # Tạo file .env trong thư mục backend/ và thêm dòng sau:
 # MONGODB_URI=your_mongodb_string
 # PORT=5000
 
-# 4. Khởi chạy ứng dụng
+4. **Khởi chạy ứng dụng**
 npm start
