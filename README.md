@@ -44,9 +44,9 @@ Nếu bạn muốn chạy dự án này trên máy cá nhân:
 - npm run build
 
 3. **Cấu hình môi trường**
-# Tạo file .env trong thư mục backend/ và thêm dòng sau:
-# MONGODB_URI=your_mongodb_string
-# PORT=5000
+- Tạo file .env trong thư mục backend/ và thêm dòng sau:
+- MONGODB_URI=your_mongodb_string
+- PORT=5000
 
 4. **Khởi chạy ứng dụng**
 npm start
